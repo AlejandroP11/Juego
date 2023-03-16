@@ -1,0 +1,21 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ThirdPersonCamaraController : MonoBehaviour
+{
+    public GameObject player;
+
+    private Vector3 offset;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        offset = player.transform.position - new Vector3(0, -4, 5);
+    }
+
+    void LateUpdate()
+    {
+        transform.position = player.transform.position + offset;
+    }
+}

@@ -45,5 +45,11 @@ El juego cuenta con un sistema de cámaras personalizado, en el que el jugador p
 
 ![Screenshot 2023-03-17 021048](https://user-images.githubusercontent.com/91608906/225786910-afb0ad91-c6a0-42eb-b7d9-9d760f149e3f.png)
 
+## Vídeo
+
+En el siguiente vídeo se podrá observar el juego con todas sus funcionalidades
+
+---
+
 https://user-images.githubusercontent.com/91608906/225784144-6a5405ed-bcb1-4a1a-a4ea-265781c3484e.mp4
 
